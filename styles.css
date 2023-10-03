@@ -83,16 +83,13 @@ aside section h3 {
     padding: 10px;
 }
 
-section ul li {
-    color: #4299E1;
-}
-
 ul, ol {
     list-style-type: none;
 }
 
 li a {
     text-decoration: none;
+    color: #4299E1;
     padding: 0px;
 }
 
